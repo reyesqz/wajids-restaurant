@@ -79,3 +79,10 @@ nav h2{
     font-size:20px;
     margin-bottom:30px;
 }
+.hero img{
+    width:100%;
+    max-width:700px;
+    border-radius:15px;
+    display:block;
+    margin:30px auto;
+}

@@ -130,3 +130,9 @@ nav h2{
     margin-top:20px;
     display:inline-block;
 }
+footer{
+    background:#000;
+    text-align:center;
+    padding:25px;
+    color:#aaa;
+    }

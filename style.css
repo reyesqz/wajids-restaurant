@@ -103,3 +103,15 @@ nav h2{
     margin-bottom:20px;
     color:#ddd;
     }
+#reviews{
+    background:#1b1b1b;
+    padding:60px 20px;
+}
+
+.review{
+    background:#2c2c2c;
+    padding:20px;
+    border-radius:12px;
+    margin:20px auto;
+    max-width:700px;
+    }

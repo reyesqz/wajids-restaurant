@@ -36,6 +36,10 @@ a{
     font-weight:bold;
     transition:0.3s;
 }
+a:hover{
+    background:#ffb300;
+    transform:translateY(-3px);
+}
 section{
     padding:60px 20px;
 }

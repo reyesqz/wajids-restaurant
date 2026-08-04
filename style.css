@@ -161,3 +161,10 @@ footer{
     display:block;
     box-shadow:0 10px 25px rgba(0,0,0,.35);
 }
+.logo{
+    font-size:40px;
+    font-weight:bold;
+    color:#ff9800;
+    margin:20px auto;
+    text-align:center;
+    }

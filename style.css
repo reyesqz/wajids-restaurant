@@ -110,10 +110,11 @@ nav h2{
     background:#383838;
 }
 #menu p{
-    margin-top:10px;
-    margin-bottom:20px;
+    margin:10px 0 25px;
     color:#ddd;
-    }
+    font-size:17px;
+    line-height:1.6;
+}
 #reviews{
     background:#1b1b1b;
     padding:60px 20px;

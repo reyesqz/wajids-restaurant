@@ -81,10 +81,13 @@ nav h2{
 }
 .hero img{
     width:100%;
-    max-width:700px;
-    border-radius:15px;
+    max-width:900px;
+    height:420px;
+    object-fit:cover;
+    border-radius:20px;
     display:block;
     margin:30px auto;
+    box-shadow:0 10px 30px rgba(0,0,0,.4);
 }
 #menu{
     background:#222;
